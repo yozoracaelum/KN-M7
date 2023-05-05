@@ -11,7 +11,7 @@ graph TD;
     E-->D;
     D-->F(I *= h/2);
     F-->G([Tampil I]);
-    H-->I([Selesai]);
+    G-->I([Selesai]);
 ```
 
 ## Metode 1/3 Simpson
