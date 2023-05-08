@@ -57,3 +57,8 @@ graph TD;
     I-->J([Tampil I]);
     J-->K([Selesai]);
 ```
+
+## Integral Data Implisit
+
+![5](https://user-images.githubusercontent.com/86104516/236725067-5ab3d7c2-6b92-4700-8460-a27521236a48.png)
+
